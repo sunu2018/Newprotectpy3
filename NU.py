@@ -27,21 +27,21 @@ import requests,urllib,json
 #Galank.log("Timeline Token : " + str(Galank.tl.channelAccessToken))
 
 #Khusus Login Token
-#Galank = LINE("EuIcwvhgm0DvDyBzf6Tf.4YSrMg2oNLZ3c2qS97Qi+W.mKh1ACWOYw6wNMsrI7+jQ60ZJuPt8VJEqe1cCquTPYE=")
-#Galank.log("Auth Token : " + str(Galank.authToken))
-#Galank.log("Timeline Token : " + str(Galank.tl.channelAccessToken))
+Galank = LINE("EuIcwvhgm0DvDyBzf6Tf.4YSrMg2oNLZ3c2qS97Qi+W.mKh1ACWOYw6wNMsrI7+jQ60ZJuPt8VJEqe1cCquTPYE=")
+Galank.log("Auth Token : " + str(Galank.authToken))
+Galank.log("Timeline Token : " + str(Galank.tl.channelAccessToken))
 
-#Galank1 = LINE('EuMyJewGfP7IQml9de25.4ncHhhZkEbPPMUBZseq2jq.Gt6JJWu4eicDTlVQ64qSkBa3pPiNYwYZRFuRf1DP+Og=')
-#Galank1.log("Auth Token : " + str(Galank1.authToken))
-#Galank1.log("Timeline Token : " + str(Galank1.tl.channelAccessToken))
+Galank1 = LINE('EuMyJewGfP7IQml9de25.4ncHhhZkEbPPMUBZseq2jq.Gt6JJWu4eicDTlVQ64qSkBa3pPiNYwYZRFuRf1DP+Og=')
+Galank1.log("Auth Token : " + str(Galank1.authToken))
+Galank1.log("Timeline Token : " + str(Galank1.tl.channelAccessToken))
 
-#Galank2 = LINE('EuQ9236018FhwIU27NE3.z+0IpsHolIaEJN/TJzKjSW.NFx1S7q7NbDk/Pq+ra1fh4HhrX3XVdrGHHEPcYH7QEU=')
-#Galank2.log("Auth Token : " + str(Galank2.authToken))
-#Galank2.log("Timeline Token : " + str(Galank2.tl.channelAccessToken))
+Galank2 = LINE('EuQ9236018FhwIU27NE3.z+0IpsHolIaEJN/TJzKjSW.NFx1S7q7NbDk/Pq+ra1fh4HhrX3XVdrGHHEPcYH7QEU=')
+Galank2.log("Auth Token : " + str(Galank2.authToken))
+Galank2.log("Timeline Token : " + str(Galank2.tl.channelAccessToken))
 
-#Galank3 = LINE('TOKENMU SAYANG')
-#Galank3.log("Auth Token : " + str(Galank3.authToken))
-#Galank3.log("Timeline Token : " + str(Galank3.tl.channelAccessToken))
+Galank3 = LINE('Eu1t2ojfffgCPUpqN1X6.cdT8NvikzoSR6giT9NCWXG.EJcAlBXmvbYmykHHC62PPooDtFm4SArVWTqfuU3Bg3c=')
+Galank3.log("Auth Token : " + str(Galank3.authToken))
+Galank3.log("Timeline Token : " + str(Galank3.tl.channelAccessToken))
 
 #Galank = LINE("EuIcwvhgm0DvDyBzf6Tf.4YSrMg2oNLZ3c2qS97Qi+W.mKh1ACWOYw6wNMsrI7+jQ60ZJuPt8VJEqe1cCquTPYE=")
 #Galank1 = LINE("EuzzT05VEW5hnfk4S6v3.NONcEvn2cxU/zuRhr3ZHOW.1EusstaqkeTioe+S1j8fscJMoh2+NTFjrt/yDiclAp0=")
