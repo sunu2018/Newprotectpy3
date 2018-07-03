@@ -22,20 +22,20 @@ import requests,urllib,json
 
 
 #Khusus Login Qr Yee
-#Galank = LINE("EuIcwvhgm0DvDyBzf6Tf.4YSrMg2oNLZ3c2qS97Qi+W.mKh1ACWOYw6wNMsrI7+jQ60ZJuPt8VJEqe1cCquTPYE=")
+#Galank = LINE(".+.+=")
 #Galank.log("Auth Token : " + str(Galank.authToken))
 #Galank.log("Timeline Token : " + str(Galank.tl.channelAccessToken))
 
 #Khusus Login Token
-#Galank = LINE("EuMyJewGfP7IQml9de25.4ncHhhZkEbPPMUBZseq2jq.Gt6JJWu4eicDTlVQ64qSkBa3pPiNYwYZRFuRf1DP+Og=")
+#Galank = LINE("EuIcwvhgm0DvDyBzf6Tf.4YSrMg2oNLZ3c2qS97Qi+W.mKh1ACWOYw6wNMsrI7+jQ60ZJuPt8VJEqe1cCquTPYE=")
 #Galank.log("Auth Token : " + str(Galank.authToken))
 #Galank.log("Timeline Token : " + str(Galank.tl.channelAccessToken))
 
-#Galank1 = LINE('TOKENMU SAYANG')
+#Galank1 = LINE('EuMyJewGfP7IQml9de25.4ncHhhZkEbPPMUBZseq2jq.Gt6JJWu4eicDTlVQ64qSkBa3pPiNYwYZRFuRf1DP+Og=')
 #Galank1.log("Auth Token : " + str(Galank1.authToken))
 #Galank1.log("Timeline Token : " + str(Galank1.tl.channelAccessToken))
 
-#Galank2 = LINE('TOKENMU SAYANG')
+#Galank2 = LINE('EuQ9236018FhwIU27NE3.z+0IpsHolIaEJN/TJzKjSW.NFx1S7q7NbDk/Pq+ra1fh4HhrX3XVdrGHHEPcYH7QEU=')
 #Galank2.log("Auth Token : " + str(Galank2.authToken))
 #Galank2.log("Timeline Token : " + str(Galank2.tl.channelAccessToken))
 
