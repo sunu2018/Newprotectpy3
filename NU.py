@@ -22,12 +22,12 @@ import requests,urllib,json
 
 
 #Khusus Login Qr Yee
-#Galank = LINE()
+#Galank = LINE("EuIcwvhgm0DvDyBzf6Tf.4YSrMg2oNLZ3c2qS97Qi+W.mKh1ACWOYw6wNMsrI7+jQ60ZJuPt8VJEqe1cCquTPYE=")
 #Galank.log("Auth Token : " + str(Galank.authToken))
 #Galank.log("Timeline Token : " + str(Galank.tl.channelAccessToken))
 
 #Khusus Login Token
-#Galank = LINE()
+#Galank = LINE("EuMyJewGfP7IQml9de25.4ncHhhZkEbPPMUBZseq2jq.Gt6JJWu4eicDTlVQ64qSkBa3pPiNYwYZRFuRf1DP+Og=")
 #Galank.log("Auth Token : " + str(Galank.authToken))
 #Galank.log("Timeline Token : " + str(Galank.tl.channelAccessToken))
 
@@ -43,10 +43,10 @@ import requests,urllib,json
 #Galank3.log("Auth Token : " + str(Galank3.authToken))
 #Galank3.log("Timeline Token : " + str(Galank3.tl.channelAccessToken))
 
-Galank = LINE("EuIcwvhgm0DvDyBzf6Tf.4YSrMg2oNLZ3c2qS97Qi+W.mKh1ACWOYw6wNMsrI7+jQ60ZJuPt8VJEqe1cCquTPYE=")
-Galank1 = LINE("EuzzT05VEW5hnfk4S6v3.NONcEvn2cxU/zuRhr3ZHOW.1EusstaqkeTioe+S1j8fscJMoh2+NTFjrt/yDiclAp0=")
-Galank2 = LINE("EuB2nqViXB9yVC6Hv4id.dCZhkZtrJsP18XdGxTjDlq.lfF8ng308Ftvk0pwuhDN9xyhwzsJdtF8Rc5kytYYCd4=")
-Galank3 = LINE("EuEI1iUJoxtcMCdjAwXa.O9c5p841tRUgzA9d0PcAkG.BmkT3cVrFLnqV5SDsGHtV2R+Bwk4tH7HpLYcJY1FbCk=")
+#Galank = LINE("EuIcwvhgm0DvDyBzf6Tf.4YSrMg2oNLZ3c2qS97Qi+W.mKh1ACWOYw6wNMsrI7+jQ60ZJuPt8VJEqe1cCquTPYE=")
+#Galank1 = LINE("EuzzT05VEW5hnfk4S6v3.NONcEvn2cxU/zuRhr3ZHOW.1EusstaqkeTioe+S1j8fscJMoh2+NTFjrt/yDiclAp0=")
+#Galank2 = LINE("EuB2nqViXB9yVC6Hv4id.dCZhkZtrJsP18XdGxTjDlq.lfF8ng308Ftvk0pwuhDN9xyhwzsJdtF8Rc5kytYYCd4=")
+#Galank3 = LINE("EuEI1iUJoxtcMCdjAwXa.O9c5p841tRUgzA9d0PcAkG.BmkT3cVrFLnqV5SDsGHtV2R+Bwk4tH7HpLYcJY1FbCk=")
 
 
 startBot = time.time()
